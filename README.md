@@ -80,6 +80,7 @@ This project was developed to explore concepts such as:
 
 This project is **not affiliated with Nintendo** or Animal Crossing.
 All game-related content belongs to their respective owners.
+I used the html template from https://html5up.net/dimension
 
 ---
 
